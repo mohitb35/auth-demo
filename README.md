@@ -1,0 +1,1 @@
+Dummy authentication app using passport.js and Mongoose.
